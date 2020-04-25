@@ -1,0 +1,2 @@
+This dir is intended for storage of cached data.
+Dynamic content of the webpage is stored as static html cached-[page_name];
